@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://endentonv.github.io/sitemap
+Sitemap: https://endentonv.github.io/app/sitemap
+Sitemap: https://endentonv.github.io/assets/sitemap
+Sitemap: https://endentonv.github.io/css/sitemap
+Sitemap: https://endentonv.github.io/includes/sitemap
+Sitemap: https://endentonv.github.io/item/sitemap
+Sitemap: https://endentonv.github.io/src/sitemap
